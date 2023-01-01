@@ -344,6 +344,8 @@ function getFuncDataDennis(){
 
 //POSTS
 function getDataPosts(){
+    divTitleAdd.innerHTML = "";
+    
     let request = new XMLHttpRequest();
     request.open("get", `https://jsonplaceholder.typicode.com/posts?userId=${person.getId()}`)
     request.onreadystatechange =() =>{
