@@ -1,2 +1,2 @@
-[formatted_JSON]()
-[request_AJAX_info_with_JSON]()
+### [formatted_JSON](https://svitlanasvit.github.io/Step_Academy_Formater_Json_AJAX_Request_lab_9/index.html)
+### [request_AJAX_info_with_JSON](https://svitlanasvit.github.io/Step_Academy_Formater_Json_AJAX_Request_lab_9/index2.html)
