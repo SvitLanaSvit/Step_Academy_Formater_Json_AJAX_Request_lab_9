@@ -3,6 +3,7 @@ function checkForm(){
     console.log(textJson);
 
     try{
+        document.getElementById("paragraphError").innerText = "";
         const text = JSON.parse(textJson);
         let str = JSON.stringify(text, null, 4);
         document.getElementById("textCorrect").value = str;
